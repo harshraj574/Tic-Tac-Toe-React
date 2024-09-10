@@ -59,7 +59,7 @@ body {
 
 .square {
   background: #fff;
-  border: 3px solid #0d9bed;
+  border: 5px solid #0d9bed;
   float: left;
   font-size: 24px;
   font-weight: bold;
@@ -73,7 +73,7 @@ body {
 }
 .oSquare{
   background: #fff;
-  border: 3px solid #a60011;
+  border: 5px solid #a60011;
   float: left;
   font-size: 24px;
   font-weight: bold;
@@ -84,7 +84,6 @@ body {
   padding: 0;
   text-align: center;
   width: 10vw;
-
 }
 
 .square:hover{
